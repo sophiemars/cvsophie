@@ -1,0 +1,21 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.slide{
+}
+
+h1{
+    font-family: font-family: 'Montserrat', sans-serif;
+    font: bold;
+}
+h3{
+    font: bold;
+}
+h6{
+    font: bold
+}
+.col-2{
+    width: 100px;
+    height: 100px;
+}
