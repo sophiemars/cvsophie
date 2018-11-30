@@ -6,16 +6,37 @@ body{
 }
 
 h1{
-    font-family: font-family: 'Montserrat', sans-serif;
-    font: bold;
+    font-family:'Montserrat', sans-serif;
+    font: bolder;
 }
 h3{
     font: bold;
 }
 h6{
-    font: bold
+    font: bold;
 }
-.col-2{
-    width: 100px;
-    height: 100px;
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
+/* #download{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+} */
+
+#logoentreprises .col-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#logoentreprises img{
+    width: 100%;
+}
+#expertise {
+    margin: 150px;
+}
+
+
